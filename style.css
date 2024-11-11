@@ -116,3 +116,8 @@ div {
         width: 100%;
     }
 }
+
+.scrolled {
+    background-color: rgba(0, 0, 0, 0.8); /* 네비게이션 바의 색상 변경 */
+    transition: background-color 0.3s ease; /* 부드러운 전환 효과 */
+}
